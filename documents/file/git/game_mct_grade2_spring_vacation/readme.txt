@@ -1,39 +1,39 @@
-�Q�[������---
-�͂���ł�
-�G��r�ł��Ă�������
-�r�łł����玟�̃X�e�[�W�ցA���ʂƂ�蒼���ł��B
+ゲーム説明---
+艦これです
+敵を殲滅してください
+殲滅できたら次のステージへ、死ぬとやり直しです。
 
-�������---
-WASD : �ړ�
-���V�t�g+WASD : �푬�ړ�
-Q or E �F���E���
-���E�}�E�X�{�^�������z�C�[���N���b�N : �U��
-T : �^�[�Q�b�g���b�N�I��
-Tab : �}���`���b�N�I��(��鈂̂�)
-1or2or3 : �^�[�Q�b�g�ύX
+操作説明---
+WASD : 移動
+左シフト+WASD : 戦速移動
+Q or E ：左右回避
+左右マウスボタンｏｒホイールクリック : 攻撃
+T : ターゲットロックオン
+Tab : マルチロックオン(龍驤のみ)
+1or2or3 : ターゲット変更
 
-�L�����N�^�[�Љ�---
-�y��� : ���
-�y���ł��B�͍ڋ@��΂��܂��B�͍ڋ@�͊͏�U���@�A�͏㔚���@�ł��B
-�A�ˑ��x�͒Ⴂ�ł����A�P���̍U���͂������A�������b�N�I���ŁA�Ȃ�
-���������U�����ł���̂ł���Ȃ�ɋ����ł��B
+キャラクター紹介---
+軽空母 : 龍驤
+軽空母です。艦載機飛ばせます。艦載機は艦上攻撃機、艦上爆撃機です。
+連射速度は低いですが、単発の攻撃力が強く、自動ロックオンで、なお
+かつ遠距離攻撃ができるのでそれなりに強いです。
 
-��� : ����
-�Ŏ�ł��B���ڂ��Ă��镐��͋����̂ł����A������܂���B�S���ł��B
+戦艦 : 長門
+最弱です。搭載している武器は強いのですが、当たりません。
 
-�쒀�� : �[��
-�쒀�͂ł��B�ŋ��ł��B�L�����N�^�[�̒��ōő����ւ�A���ڂ��Ă���
-�����������ł��B�G�̋߂������Ȃ��狛�����Ԃ������Ă���ƃN���A
-�[���Ă��܂��B
+駆逐艦 : 夕立
+駆逐艦です。最強です。キャラクターの中で最速を誇り、搭載している
+魚雷が強いです。敵の近くを回りながら魚雷をぶっ放しているとクリア
+ーしています。
 
-�f��---
-�SMMD���f�� : http://dic.nicovideo.jp/a/mmd%E8%89%A6%E3%81%93%E3%82%8C
+素材---
+全MMDモデル : http://dic.nicovideo.jp/a/mmd%E8%89%A6%E3%81%93%E3%82%8C
               http://dic.nicovideo.jp/a/mmd%E6%B5%B7%E8%BB%8D
 
-�����f�ށ@�@: http://soundeffect-lab.info/
-              �T�E���h�g���b�N�B
+音声素材　　: http://soundeffect-lab.info/
+              サウンドトラック。
 
-����---
-���̃Q�[���͂ƂĂ��d���ł��B
-�w�Z��PC�ł͏����ݒ�̏ꍇ�����̂ŁA�����`���[�N������
-Graphics quality����Fastest,Fast,Simple,Good�̂����ꂩ��I�����Ă��������B
+注意---
+このゲームはとても重いです。
+学校のPCでは初期設定の場合きついので、ランチャー起動時の
+Graphics qualityからFastest,Fast,Simple,Goodのいずれかを選択してください。
